@@ -9,4 +9,4 @@ Common use case: reading a menu in a dimly lit restaurant.
 
 Does not require any network, contact, or unnecessary permissions.
 
-Does not contain ads.
+Does not contain ads or in-app purchases.
